@@ -9,7 +9,10 @@ class Dog
   end
 
   def self.clear_all
+<<<<<<< HEAD
 
+=======
+>>>>>>> e20048e105fc8177e21eb7bd623e34ed8d5ca16a
     @@all.clear
   end
 
